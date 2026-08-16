@@ -1,6 +1,6 @@
 const SubjectsCreate = () => {
   return(
-  <div>List</div>
+  <div>Create</div>
   )
 }
 export default SubjectsCreate
