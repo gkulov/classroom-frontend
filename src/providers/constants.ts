@@ -13,7 +13,7 @@ export const MOCK_SUBJECTS: Subject[] = [
   {
     id: 2,
     code: "MATH",
-    name: "Introduction to Computer Science",
+    name: "Introduction to Math",
     department: "CS",
     description: "An introductory course covering the fundamental concepts of c",
     createdAt: new Date().toISOString(),
