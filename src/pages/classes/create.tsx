@@ -107,7 +107,7 @@ const ClassesCreate = () => {
         <Card className="class-form-card">
           <CardHeader className="relative z-10">
             <CardTitle className="text-2xl pb-0 font-bold text-gradient-orange">
-              Fill out form
+              Fill Out Form
             </CardTitle>
           </CardHeader>
 
